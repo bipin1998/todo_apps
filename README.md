@@ -1,2 +1,2 @@
 # todo_apps
- Bipin Kumar's personal website featuring professional profile and portfolio
+I've created a comprehensive README file for your Python todo app
